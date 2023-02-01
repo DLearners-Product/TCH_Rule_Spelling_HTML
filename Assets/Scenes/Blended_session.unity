@@ -1658,11 +1658,11 @@ MonoBehaviour:
   - {fileID: 5629414730281511622, guid: 2d9222288866b534b84506541d94f913, type: 3}
   - {fileID: 2257563455751772089, guid: 378641d81668b2a4db55e7cc37677221, type: 3}
   - {fileID: 7053811908533194182, guid: 7b5d39a43b7d19145a68011e5c5f72a2, type: 3}
-  - {fileID: 2905862043094604627, guid: 9d7af2ba1d03b7240987ccbdfe0c0b85, type: 3}
+  - {fileID: 1024301888951267177, guid: 9d7af2ba1d03b7240987ccbdfe0c0b85, type: 3}
   - {fileID: 2945596272564495836, guid: 1d69550ec98f979428b9ef78ea50b4a9, type: 3}
   - {fileID: 5525006791460113200, guid: d4afee0c6e8139b42b6ef84e9c3dbb1c, type: 3}
   - {fileID: 1260913204866836471, guid: bfa928544bb4c154aa8f08c85c0bff37, type: 3}
-  - {fileID: 5805602681686150840, guid: 4477646f79d016f438a17877cc82f76d, type: 3}
+  - {fileID: 399274889450541236, guid: 4477646f79d016f438a17877cc82f76d, type: 3}
   - {fileID: 3279369509550895992, guid: ef46283397f244f4d9495f16c146e2b9, type: 3}
   - {fileID: 7513570762545126837, guid: a3f573a41f1ad384ba81ea8ae42d4f82, type: 3}
   - {fileID: 2556378241389146318, guid: 5b9a4fbf8bc24e44f98a4b4d88ba5274, type: 3}
@@ -1734,7 +1734,7 @@ MonoBehaviour:
   - "Phoneme Deletion\u200B  \u200B  1) Remove b from batch\u200B  2) Remove p from
     punch\u200B  3) Remove f from fetch\u200B  4) Remove cl from clutch.  Click on
     the answer key button to hear the answer."
-  - Join and form meaningful words and sort.
+  - Join and form meaningful words.Type the words under correct categories.
   - "Help the witch reach her house \u200B  by choosing the correct word ending.\u200B 
     \u200B  Encourage the child recall when to use ch and tch."
   - "Begin the posture with the mountain pose, wherein the legs are straight, hands

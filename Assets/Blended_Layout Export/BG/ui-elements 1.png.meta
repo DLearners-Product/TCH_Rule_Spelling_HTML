@@ -5,6 +5,9 @@ TextureImporter:
   - first:
       213: -2014151503750198654
     second: ui-elements 1_0
+  - first:
+      213: 6090045595121346013
+    second: ui-elements 1_0
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -128,8 +131,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 28a8627f0eb4c04e0800000000000000
-      internalID: -2014151503750198654
+      spriteID: dd5e32bc330348450800000000000000
+      internalID: 6090045595121346013
       vertices: []
       indices: 
       edges: []

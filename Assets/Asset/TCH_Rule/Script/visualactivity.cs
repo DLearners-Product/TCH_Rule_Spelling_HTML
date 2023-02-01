@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.EventSystems;
+using TMPro;
 
 public class visualactivity : MonoBehaviour
 {
@@ -11,12 +12,14 @@ public class visualactivity : MonoBehaviour
     public GameObject G_Final,G_Selected;
     public AudioSource AS_Correct, AS_Wrong;
     bool B_CanClick;
+    public TextMeshProUGUI TXT_Max, TXT_Current;
     // Start is called before the first frame update
     void Start()
     {
         G_Final.SetActive(false);
         I_Qcount = 0;
         THI_ShowQuestion();
+        TXT_Max.text = GA_Questions.Length.ToString();
     }
     public void BUT_Next()
     {
@@ -36,6 +39,8 @@ public class visualactivity : MonoBehaviour
         {
             GA_Questions[i].SetActive(false);
         }
+        int Cnt = I_Qcount + 1;
+        TXT_Current.text = Cnt.ToString();
         GA_Questions[I_Qcount].SetActive(true);
         B_CanClick = true;
     }
